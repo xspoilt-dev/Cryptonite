@@ -28,4 +28,4 @@ python3 Cryptonite.py
 
 ### Contributors
 * **CodeReform by** [Exotic Hridoy](https://www.facebook.com/deobfuscate)
-* **CodeCrafted with** [Team Pekay XD](https://github.com/team-peaky-xd)
+* **CodeCrafted with** [MINHAJUL ISLAM](https://www.facebook.com/xspoilt)
