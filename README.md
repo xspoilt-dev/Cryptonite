@@ -12,7 +12,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com//xspoilt-dev/Cryptonite.git
+git clone https://github.com/xspoilt-dev/Cryptonite.git
 cd Cryptonite
 python3 Cryptonite.py
 ```
