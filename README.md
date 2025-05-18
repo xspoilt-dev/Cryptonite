@@ -27,5 +27,6 @@ python3 Cryptonite.py
 * Mode 3: Combination of Mode 1 and Mode 2, plus junk code insertion.
 
 ### Contributors
+* **Author"" [ngocuyencoder](https://github.com/hngocuyen)
 * **CodeReform by** [Exotic Hridoy](https://www.facebook.com/deobfuscate)
-* **CodeCrafted with** [MINHAJUL ISLAM](https://www.facebook.com/xspoilt)
+* **Maintain by** [MINHAJUL ISLAM](https://www.facebook.com/xspoilt)
